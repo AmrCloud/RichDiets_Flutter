@@ -1,16 +1,23 @@
-# food
+# RichDiets Mobile Application
 
-A new Flutter project.
+RichDiets is a mobile app developed with Flutter, focusing on dietary management and user-friendly customization for a personalized nutrition experience.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **Branch Selection**: Quickly select a preferred branch for dietary services.
+- **Secure Authentication**: Login and registration flows with password toggles.
+- **Enhanced Input Fields**: Custom input fields for user information.
+- **Password Visibility Toggle**: Secure password input with toggle visibility.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+
+### Installation
+
+```bash
+git clone https://github.com/AmrCloud/RichDiets_Flutter
+flutter pub get
+flutter run
